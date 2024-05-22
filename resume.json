@@ -1,0 +1,70 @@
+{
+    "name": "Priyanka",
+    "title": "Biomedical Engineer",
+    "contact": {
+      "email": "priyankashanmugsundaramr@gmail.com",
+      "phone": "+91 674117355",
+      "location": "Coimbatore, Tamilnadu"
+    },
+    "education": [
+      {
+        "institution": "bannari Amman Institute of Technology",
+        "degree": "BE-Biomedical Engineering",
+        "graduationYear": 2024
+      },
+      {
+        "institution": "AVB Matriculation higher secondary school",
+        "Group": "Bio-Maths",
+        "graduationYear": 2020
+      }
+    ],
+    "experience": [
+      {
+        "company": "Connected value health solutions",
+        "title": "Virtual radiology assistant",
+        "startDate": "18-03-2024",
+        "endDate": "30-05-2024",
+        "responsibilities": 
+          "Assist radiologists and clinicians in efficiently managing and accessing medical imaging data and reports"
+        
+      }
+    ],
+    "skills": [
+      "C programming",
+      "OOPS",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node",
+      "Git"
+    ],
+    "certifications": [
+      {
+        "name": "A1 German certification",
+        "issuer": "Inlingua",
+        "issueDate": "2021-08-13"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Design and developement of breath sensor for disease detection",
+        "description": "A sensor which detects the blood glucose level in blood  without any invasive method.Where it dtects the biomarkers in breath and calculates the blood glucose level.",
+        "technologies": [
+          "IOT",
+          "Sensors",
+          "C programming"
+        ]
+      },
+      {
+        "title": "NURTI APP & SMART MODULAR KITCHEN",
+        "description": "A Nutri app which provides an entire diet plan for the people who wishes to be fit and healthy.And an modular kitchen which checks for ingredients available at home and it is connected to cloud and will be shared through application.",
+        "technologies": [
+          "AI",
+          "IOT",
+          "Python",
+          "Sensor"
+        ]
+      }
+    ]
+  }
+ 
